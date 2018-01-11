@@ -19,10 +19,10 @@ var (
 	winTitle = "Particle System"
 
 	imgPaths = []string{
-		"/img/red_circle.png",
-		"/img/black_circle.png",
-		"/img/donut.png",
-		"/img/donut2.png",
+		"/src/psystem/img/red_circle.png",
+		"/src/psystem/img/black_circle.png",
+		"/src/psystem/img/donut.png",
+		"/src/psystem/img/donut2.png",
 	}
 
 	winWidth, winHeight = 800, 600
